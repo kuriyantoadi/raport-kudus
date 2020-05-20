@@ -1,0 +1,108 @@
+[17-May-2020 00:41:30 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:41:30 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:41:30 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:41:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/smaf7762/public_html/erapot/laporan/coba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 3
+[17-May-2020 00:43:16 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:43:16 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:43:16 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:43:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/smaf7762/public_html/erapot/laporan/coba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 3
+[17-May-2020 00:43:39 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:43:39 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:43:39 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:43:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/smaf7762/public_html/erapot/laporan/coba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 3
+[17-May-2020 00:44:40 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:44:40 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:44:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:44:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/smaf7762/public_html/erapot/laporan/coba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 3
+[17-May-2020 00:45:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/smaf7762/public_html/erapot/laporan/coba.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 3
+[17-May-2020 00:47:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/smaf7762/public_html/erapot/laporan/coba.php on line 2
+[17-May-2020 00:47:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/smaf7762/public_html/erapot/laporan/coba.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 14
+[17-May-2020 00:50:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/smaf7762/public_html/erapot/laporan/coba.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 20
+[17-May-2020 00:51:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/smaf7762/public_html/erapot/laporan/coba.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 5
+[17-May-2020 00:52:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/smaf7762/public_html/erapot/laporan/coba.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/smaf7762/public_html/erapot/laporan/coba.php on line 5
+[17-May-2020 00:59:48 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 00:59:48 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 00:59:48 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 00:59:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 80
+[17-May-2020 00:59:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 81
+[17-May-2020 01:00:37 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 01:00:37 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 01:00:37 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 01:00:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 80
+[17-May-2020 01:00:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 81
+[17-May-2020 01:01:49 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 01:01:49 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 01:01:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 70
+[17-May-2020 01:01:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 80
+[17-May-2020 01:01:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 81
+[17-May-2020 04:07:24 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:07:24 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:07:24 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:07:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 25
+[17-May-2020 04:07:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 26
+[17-May-2020 04:08:32 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:08:32 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:08:32 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:08:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 25
+[17-May-2020 04:08:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 26
+[17-May-2020 04:10:10 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:10:10 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:10:10 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:10:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 25
+[17-May-2020 04:10:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 26
+[17-May-2020 04:11:19 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:11:19 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:11:19 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:11:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 25
+[17-May-2020 04:11:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 26
+[17-May-2020 04:12:09 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:12:09 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:12:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:12:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 25
+[17-May-2020 04:12:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 26
+[17-May-2020 04:15:28 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:15:28 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:15:28 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:15:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 25
+[17-May-2020 04:15:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 26
+[17-May-2020 04:20:34 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:20:34 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:20:34 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smaf7762/public_html/erapot/laporan/coba.php on line 13
+[17-May-2020 04:20:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 25
+[17-May-2020 04:20:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 26
+[17-May-2020 04:37:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 46
+[17-May-2020 04:42:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 43
+[17-May-2020 04:45:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smaf7762/public_html/erapot/laporan/coba.php on line 41
+[17-May-2020 04:50:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaf7762/public_html/erapot/laporan/coba.php on line 87
+[17-May-2020 04:51:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaf7762/public_html/erapot/laporan/coba.php on line 93
+[17-May-2020 04:58:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaf7762/public_html/erapot/laporan/coba.php on line 86
+[17-May-2020 04:58:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaf7762/public_html/erapot/laporan/coba.php on line 87
+[17-May-2020 04:58:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaf7762/public_html/erapot/laporan/coba.php on line 87
+[17-May-2020 04:59:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaf7762/public_html/erapot/laporan/coba.php on line 88
